@@ -32,6 +32,16 @@
 ## 6. ลบ นร.
 ### <img width="1598" height="1168" alt="image" src="https://github.com/user-attachments/assets/06a2477a-b8b4-4bdb-9454-865314ad7c55" />
 
+## Products API
+## 1. ดึงข้อมูล products ทั้งหมด
+<img width="1438" height="1246" alt="image" src="https://github.com/user-attachments/assets/7cc995a2-471d-4b99-85a9-bb1cac0ce1f4" />
+
+## 2. เพิ่ม product ใหม่
+## 3. เพิ่ม product อีกตัว
+## 4. ดึงข้อมูล product ตาม ID
+## 5. อัพเดท product
+## 6. ลบ product
+
 
 
 
