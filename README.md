@@ -37,10 +37,22 @@
 <img width="1438" height="1246" alt="image" src="https://github.com/user-attachments/assets/7cc995a2-471d-4b99-85a9-bb1cac0ce1f4" />
 
 ## 2. เพิ่ม product ใหม่
+<img width="1214" height="1224" alt="image" src="https://github.com/user-attachments/assets/ccb711eb-7ff6-4574-860e-9e04bb03b55e" />
+
 ## 3. เพิ่ม product อีกตัว
+<img width="1120" height="976" alt="image" src="https://github.com/user-attachments/assets/248cfca5-0358-476b-bc92-981e6854c8f3" />
+
 ## 4. ดึงข้อมูล product ตาม ID
+<img width="1358" height="1196" alt="image" src="https://github.com/user-attachments/assets/cef8c844-e575-4a51-bd82-f25e531af8f3" />
+
 ## 5. อัพเดท product
+<img width="1266" height="1192" alt="image" src="https://github.com/user-attachments/assets/4bb760fe-8d5b-4b21-accf-7f3b8fb8bc21" />
+
 ## 6. ลบ product
+<img width="1322" height="1002" alt="image" src="https://github.com/user-attachments/assets/61c8e5d1-cc67-49b8-8fde-3146a1a02f73" />
+ลบสินค้าเบอร์เกอร์คิงออก
+
+
 
 
 
