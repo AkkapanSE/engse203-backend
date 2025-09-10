@@ -17,7 +17,8 @@
 ###  <img width="1696" height="1474" alt="image" src="https://github.com/user-attachments/assets/fddffd77-5628-4fae-936c-5dad1f04ae8a" />
 
 ## 2. ดึงข้อมูลนักเรียนทั้งหมด
-### <img width="1756" height="1470" alt="image" src="https://github.com/user-attachments/assets/92e5af47-ebfa-477d-a0eb-8e29d48f43ef" />
+### <img width="1106" height="958" alt="image" src="https://github.com/user-attachments/assets/f868fc0c-d4b0-4258-b335-290647cfacf2" />
+
 
 ## 3. เพิ่มนักเรียนใหม่
 ### <img width="1432" height="1294" alt="image" src="https://github.com/user-attachments/assets/54acad91-622a-49f1-94ed-2cb3d581e25f" />
